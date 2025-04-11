@@ -4,3 +4,4 @@ function getDigit(num, place) {
   let quotient = Math.floor(remainder / 10 ** place);
   return quotient;
 }
+

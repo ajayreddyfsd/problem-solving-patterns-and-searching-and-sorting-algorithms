@@ -1,4 +1,4 @@
-function getNumberOfDigits(num) {
+function digitCount(num) {
   if (num === 0) {
     return 1;
   }
